@@ -16,12 +16,15 @@ to Azure Active Directory (AAD) in order to access AAD protected web resources.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/adal-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/adal-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/adal-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/adal-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/adal/badges/version.svg)](https://anaconda.org/conda-forge/adal)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/adal/badges/downloads.svg)](https://anaconda.org/conda-forge/adal)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-adal-green.svg)](https://anaconda.org/conda-forge/adal) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/adal.svg)](https://anaconda.org/conda-forge/adal) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/adal.svg)](https://anaconda.org/conda-forge/adal) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/adal.svg)](https://anaconda.org/conda-forge/adal) |
 
 Installing adal
 ===============
