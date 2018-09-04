@@ -1,6 +1,6 @@
 {% set name = "adal" %}
-{% set version = "1.0.2" %}
-{% set sha256 = "4c020807b3f3cfd90f59203077dd5e1f59671833f8c3c5028ec029ed5072f9ce" %}
+{% set version = "1.1.0" %}
+{% set sha256 = "a2a2f7e4a2d2e2014e3d5ff9f6d614af280c879a1dbf96bb64d92d85a814a645" %}
 
 package:
   name: {{ name|lower }}
