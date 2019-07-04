@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About adal
 ==========
 
@@ -20,8 +16,15 @@ to Azure Active Directory (AAD) in order to access AAD protected web resources.
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/adal-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/adal-feedstock)
+
+<table><tr><td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=2649&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/adal-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
