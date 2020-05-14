@@ -118,5 +118,4 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@ivoflipse](https://github.com/ivoflipse/)
 
