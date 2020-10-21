@@ -5,12 +5,10 @@ Home: https://github.com/AzureAD/azure-activedirectory-library-for-python
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/adal-feedstock/blob/master/LICENSE.txt)
 
 Summary: The ADAL for Python library makes it easy for python application to authenticate
 to Azure Active Directory (AAD) in order to access AAD protected web resources.
-
-
 
 
 Current build status
