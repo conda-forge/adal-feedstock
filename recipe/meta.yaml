@@ -1,5 +1,5 @@
 {% set name = "adal" %}
-{% set version = "1.2.4" %}
+{% set version = "1.2.5" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 7a15d22b1ee7ce1be92441199958748982feba6b7dec35fbf60f9b607bad1bc0
+  sha256: 8003ba03ef04170195b3eddda8a5ab43649ef2c5f0287023d515affb1ccfcfc3
 
 build:
   number: 0
