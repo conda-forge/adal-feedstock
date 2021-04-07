@@ -21,7 +21,7 @@ requirements:
   run:
     - cryptography >=1.1.0
     - pyjwt >=1.0.0
-    - python
+    - python >=3.6
     - python-dateutil >=2.1.0
     - requests >=2.0.0
 
